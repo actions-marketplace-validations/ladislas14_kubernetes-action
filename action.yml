@@ -1,4 +1,4 @@
-name: "Kubernetes Action"
+name: "Kubernetes Action - Kubectl 1.16.8"
 description: "Interacts with kubernetes clusters calling kubectl commands. Integrates support for AWS EKS."
 branding:
   icon: 'anchor'  
